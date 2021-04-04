@@ -1,6 +1,6 @@
 class CfgPatches {
-    class Virakal_UnkillableModule {
-        requiredAddons[] = {"A3_Data_F"};
+    class Virakal_TF79ZeusModules {
+        requiredAddons[] = {"ace", "zen"};
         requiredVersion = 0.1;
         units[] = {};
         weapons[] = {};
